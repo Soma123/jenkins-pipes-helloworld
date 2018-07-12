@@ -1,4 +1,4 @@
-node {
+node('rhel') {
   try {
     stage('checkout') {
       checkout scm
