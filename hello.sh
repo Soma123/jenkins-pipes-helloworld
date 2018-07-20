@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo ohio $1!
+echo hello world $1!
